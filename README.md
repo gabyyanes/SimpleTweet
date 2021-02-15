@@ -2,7 +2,7 @@
 
 SimpleTweet is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-
+## SimpleTweet Part 2
 
 Time spent: 3 hours spent in total
 
@@ -32,6 +32,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+
+---
+
+## SimpleTweet Part 1
 
 Time spent: 5 hours spent in total
 
